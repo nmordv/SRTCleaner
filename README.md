@@ -1,2 +1,7 @@
 # SRTCleaner
-Program to clean SRT files
+
+This program has been created to clean SRT files. The pre-requisits of this program are: correct start time and text. The program writes the correct frame number, the correct end time, it elimiminates extra spaces, and corrects time incoherences.
+
+# Download SRTCleaner 
+
+To download click [here](https://github.com/nmordv/SRTCleaner/raw/main/SRTCleaner.exe).
