@@ -4,4 +4,4 @@ This program has been created to clean SRT files. The pre-requisits of this prog
 
 # Download SRTCleaner 
 
-To download click [here](https://github.com/nmordv/SRTCleaner/raw/main/SRTCleaner.exe).
+To download SRTCleaner.exe file click [here](https://github.com/nmordv/SRTCleaner/raw/main/SRTCleaner.exe).
