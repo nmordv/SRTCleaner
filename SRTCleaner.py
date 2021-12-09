@@ -1,3 +1,7 @@
+# Author: Natalia Mordvanyuk
+# Created on 9/12/2021
+# Template of UI: TKinter example
+
 from tkinter import *
 from tkinter import filedialog
 import io
